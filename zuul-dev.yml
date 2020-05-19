@@ -27,6 +27,7 @@ zuul:
     item-service: /item-service/**
     user-service: /user-service/**
     order-service: /order-service/**
+    sso: /sso/**
 
 ribbon:
   ConnectTimeout: 1000
